@@ -1,0 +1,16 @@
+.Odd{
+    background-color:lightpink;
+    font-family:"verdana","Dejavu Sans",sans-serif;
+}
+#Number_two{
+    color:blue;
+    font-size: 36px;
+}
+.Odd#Cooler{
+    font-size: 24px;
+}
+#Number_four{
+    background-color:lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
